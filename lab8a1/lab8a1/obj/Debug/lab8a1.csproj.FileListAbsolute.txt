@@ -1,0 +1,8 @@
+C:\Users\233547\source\repos\lab8a1\lab8a1\bin\Debug\lab8a1.exe.config
+C:\Users\233547\source\repos\lab8a1\lab8a1\bin\Debug\lab8a1.exe
+C:\Users\233547\source\repos\lab8a1\lab8a1\bin\Debug\lab8a1.pdb
+C:\Users\233547\source\repos\lab8a1\lab8a1\obj\Debug\lab8a1.csproj.AssemblyReference.cache
+C:\Users\233547\source\repos\lab8a1\lab8a1\obj\Debug\lab8a1.csproj.SuggestedBindingRedirects.cache
+C:\Users\233547\source\repos\lab8a1\lab8a1\obj\Debug\lab8a1.csproj.CoreCompileInputs.cache
+C:\Users\233547\source\repos\lab8a1\lab8a1\obj\Debug\lab8a1.exe
+C:\Users\233547\source\repos\lab8a1\lab8a1\obj\Debug\lab8a1.pdb
